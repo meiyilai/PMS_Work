@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Work\\Git\\PMS_HHD\\gridlayout\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 42,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "D:\\Work\\Git\\PMS_HHD\\gridlayout\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 42,
+                        "endOffset": 2287
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Work\\Git\\PMS\\gridlayout\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 42,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "D:\\Work\\Git\\PMS\\gridlayout\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 42,
+                        "endOffset": 2287
+                    }
+                }
+            }
+        ]
+    }
+]

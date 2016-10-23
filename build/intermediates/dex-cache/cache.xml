@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_alipay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33836c88fdc8ced7b0ad45c4ae1cdb9f7d22c32d">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_alipay_f70c734d29e3967101ed783ad1f730e1cf77077e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_email.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="701598529cf88a04d923d1d59a875e0d3861d561">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_email_89805d58805c869d500cfc91c60904e037908707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\jpush-android-2.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38dd284400de7ff5fab09098a1b8fd30cc5980c7">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.7_3c5ecb9a6beb443e9cbd782f06a7d3e64a8cdc3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9aa09ddac7478e982b3ff55f7e32a7e51f67dbf">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\open_sdk_r5509_3ec572ef96ea82cdcb815b55da5ad6c4835c5a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tumblr.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="405c802c9a16d877e20680aa9da29a9629597e85">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tumblr_dee880382bd874ce19202973de248dfacc82b41c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\swipemenulistview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ea2d7c121243ac6fe8b6af0ecce146cd1656c75">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\swipemenulistview_bdd130d308ebbb4284678b33024b043e8c1ec290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-Wechat-Core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e84965381088ee19bf975e906eb5b60af623dcb">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.7.1_366386b41574dc23df8b89b252e04ea087c79d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9c524f29673bfede1442cb340f72ef9912020ce">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_1_986eb2fb2e739f4877a048d47ff60156d0678bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_yixin_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1844f7973bc0c8b5c65eb8091373d9d53f225ba">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_1_e2282220df39e08fdc72dcdbfda51151f59f3835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-Wechat-Favorite-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e01404c25658c16f8375b7cc18da694db61e22da">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.7.1_3086ef4b18dfc171e9a9b8a0ff54be7dbdb22426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04dd32162912fc2bfe3a619bb1fc4034d89187ff">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_1_89affa96eccc93895acf6650bd1d3995f544287b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_pinterest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48d368e9a8ae08ba53e593855d34bd93ac1a0ea5">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pinterest_52bbc41aa9a21aa3344a57af57ad1d7cca8f13ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="666ee95ecda847cce14c051167c5c5f233f4d258">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_a0437d135f0c3b43b374ba6fa9ba45b9cf700900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_evernote.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ed61447c06d007774c09c3453ff99e2bb635a2a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_evernote_517a8876cc8d88e7f2a7757b87f88698aac93a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\libapshare.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcec6acb462b9fb31a0c106ee01e1d7397175a8f">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\libapshare_59aaf14541d29bcc3f478331d7cd6e136584da2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\Android-PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9e0b4b8b77829d14fcbef61796cbe34f823b997">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-Android-PullToRefresh-unspecified_c3386c62974ed23e1b7fda190d934beedece548c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_b675e28592a3af30798f976a2ed41ce68c8d33cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-Wechat-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbea1c0f4330ec171bea024a7939e91ce410f4">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.7.1_58d5bc01175af22350fe594b9c18d004a512a330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_renren_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01397a3a91b34a77c85688d65a0027bd56469b37">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_1_9c28f1509d055d84826fcaa6a06c76bf8c228180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\EspTouch_Demo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aed8896ccd97c82c6d376dc7a5631777c9b6b92a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-EspTouch_Demo-unspecified_a581c2a3ac7901021a58db9e26185f5484fade86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="312766498e2a1c1547c0ba1e39932f940d4e8539">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-social_sdk_library_project-unspecified_b024671a6cf41a4ee25b4b8abf08adfecfed4746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\MobCommons.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85c6a22a097db5e86cb0702dff09a62218faa25b">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons_681c9392d169da3d22d072165e88efa4d4d0879b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-QZone-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab780cc4d045859b20a2177b7045e6ac6ec44be3">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.7.2_9c3f78646e6b5f1244358c4a786e62a3b140b9a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_instagram.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11953099de34ca6c7cf8d3a73ac25b478bbe72e6">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_instagram_38f176413cee03370abcaaaed11261de77b57aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62e48ad4e1896519cdffc181d5f3c612c7d7b37d">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_2_a2b5d189207f0ac7d051b0694d06c52594685c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_twitter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ba6d657ff785e18e81c2fffba86707217deb567">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_twitter_6650a812d503a90c8f3d6dec03745779a2b5b1e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bc78160e85f56f81c91271dfa44bd8c8293cb94">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\weiboSDKCore_3.1.4_5110e38454c6f4ba7ec64ec1aedf7205962d3094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_foursquare.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e878f109e4073a3159d7e4a18762603a40d554">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_foursquare_3b3eb50a11316a468af8760ecccddfcc3fb7c2d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36865ecf6aadd8b300a2520dba55266757a0f2e2">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_ad925d177020b37e1599970890b0ff57729c9c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\gridlayout\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37d626e7868a0a1cc120507a5a4020cc9389b2d3">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-gridlayout-unspecified_ee579930ba6db32def5160c90fc24d9ebbc9a1dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\twitter4j-core-4.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5357caadcb57b95b6a9e6516a26a1e626ef36e26">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\twitter4j-core-4.0.4_3d6b20338221be8119b507c8a96c20c059f12f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-Wechat-Moments-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81694c2a408d13da024d36bfcd4f8d9285d8c2dc">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.7.1_98b1476a75fac53669c02fd7e3ec2f4350d39c8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\recyclerview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9c7debf6f8e1dcb7ef7b95436e895c36d724a45">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-recyclerview-unspecified_d8cf548235dda6ab890a370e588bf54c58b5b600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-QQ-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fc4d18bfdfcee533691ec367f476e001075c8a0">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.7.1_d365a4d02d1990876190165ab43a4bbc682f8ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e7bc72ccd9c8d9840905edcdd7728e8ec2ffd7d">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-library-unspecified_5c9a752307038e640a15bdfb45847a3c68606da3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_f647b12d364fab8fe1cb6fdbadbf3add02a9f7c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_1_bb7b8b21ee13b3f21b5274f64e7a88871fba0c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_linkedin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18a11ce45e084d0224660431b765992cd0f23993">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_linkedin_2_484b94651cc7300ec2b783ab15eb87cc00b93f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\ShareSDK-Core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99b4bf0f2e87da6145faf7726db45186cf29f9a4">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.7.1_0f2834d602747ac827cafa7c3f848e49cc50ad9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\android-support-v7-appcompat\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_f81af94ab1830eda56f509ee5e34cccb23327224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_c6494dde27cd22a2329f38544a93af1bffdbf083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\android-support-v7-appcompat\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49cf715c139a550bbbb7e05286c0e0115df65cac">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-android-support-v7-appcompat-unspecified_5571cc0c200e9019fdeade2b7f37fbdd99cbb238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233a45cb5652b7b07f06f9d68f7eb0efa1d051c6">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_eb1b774d96334d077ea3e9a6a67437fc8964d4c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62eaa41687332faac9d0345e69e2cf67aaa7beec">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_3_c82e563398e7596f4dd4b599c78f67cb2d784f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_line.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1d97c94a79d9696846751f4b33a4fa44d4cb0cc">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_line_437571ac2a76797d77feffd98cf6ede69a5af26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_facebook_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a01f6c9601445a0bc30de7737dee207961929d9c">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_2_0f80fcfe854e551366191e82df913a977f401dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-update-v2.6.0.1_a17795bcba34195df517d47d04b2d4e36ffe37c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\gridlayout\unspecified\jars\libs\android-support-v7-gridlayout.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce0640a37df1b8ee5d99d191b69f246719e7e46a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-gridlayout_4f929783a79f51adab7b6c3a08d4b86e5a783758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecfaae83ddf3bb141462b5ab40a0de2b1839b594">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_2_9adc2a17c5de0b3a488960faaa629fcf6943ff4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\recyclerview\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd238aec73163ad56f8adee38555929d2c98f68">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-recyclerview_44559333b6abb2982b8ec15101f8576dad113ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_renren_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81480fe938b9899d0b4526c0bf1f10a08bce109a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_2_700b1c9cf0f7223a66dfde3efabe994199858cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_linkedin_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddb6ce82af8b4af7d53cc5be22ad816a61c93c03">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_linkedin_1_de72ef6a2a6910aab4648042d350a4330938cbf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\mta-sdk-1.6.2_e612bf0346cc05ddff11ff21ce65029ffe2254c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_flickr.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1dea5e404068064bcaf23214eb46fc9dc3b4caa">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_flickr_b47cee00265a3422ecd24cd5481d16e2b5601dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_facebook_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e0a9c730241107442c059feb49300573e2f1775">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_1_cfa6b2aee87915b71671104200cc4fe25fe9228f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_douban.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c80e99d756adff40ecbf27548375b3f5464e527c">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_douban_b8c604cf815ce2a5118a29000a05a9e71d1dabe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_ynote.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c0d8dfbac4905918b7796ce0f8121da1901f7e4">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_ynote_77c2dd01b8c55ab1393867b12c08456686d199f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\android-support-v7-appcompat\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f13da7ca2d64326fb4e3e3f36e8e56287de6a23">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-appcompat_22f35059c7ef6d71fe949c01a97879cd022bc77e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_yixin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="891c8df7c57fdfd57371a0785f48dadac6080c2e">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_2_ddfbe4e9a2c49dc67d2a2dcb7bf70f7323cfa4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2244c9346e5b2647cc04ed763d30716f275562a4">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_sms_4885d21fe83aeebc759dd84d21b663b6ca187acc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\xutils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3587b103612c2294a141233a0047520cbe3769f0">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\4\PMS_HHD-xutils-unspecified_4938cf9257ab34edc3533097f691264d29c62f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665cdcc34ce1b904988530a63132163e8fc1efba">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\volley_b1c01d89d1f9d39569f11197f5e696a48285beb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_kakao.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="024097da600808e7be6b554910e64a4645edcf5f">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_kakao_4cd487867eed071f6648ccb2aac99ca725e1cd3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_pocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63f62cb55538c5d38621b39672a31888f935578a">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pocket_9f2af43588636c78ba457f60f4ad12eb8e2cb762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_whatsapp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1adc5a4612794ffba5ba155d2215846bc44850bd">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_120d4d241d909adfbe3c24314f2a40f7f1ae9d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\libs\MobTools-2016.0401.1602.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11ec74fc87119785f9815055ec1258045803d8d6">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0401.1602_12207cfec579769013d857c7d442b975f996f0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\exploded-aar\PMS_HHD\social_sdk_library_project\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7668d698ab2f8077ad68844ad18aadb6b46b4e">
+        <dex dex="D:\Work\Git\PMS_HHD\GzmeLife\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_a5c1fce4f5e434cc7885bd780f2b235f4469c65c\classes.dex" />
+    </item>
+
+</items>
