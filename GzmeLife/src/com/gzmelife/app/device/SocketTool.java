@@ -37,6 +37,8 @@ import static com.gzmelife.app.device.Config.bufFileCancel;
 /**
  * Created by HHD on 2016/10/16.
  *
+ *
+ *
  * Socket类：发送指令；上传菜谱、固件；下载菜谱；解析、拼接帧数据；持续心跳
  */
 public class SocketTool {
