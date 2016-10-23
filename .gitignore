@@ -1,3 +1,7 @@
+# HHD
+.idea/*.xml
+
+
 # Built application files
 *.apk
 *.ap_
